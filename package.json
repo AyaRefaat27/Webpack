@@ -507,5 +507,13 @@
     "yallist": "^4.0.0",
     "yauzl": "^2.10.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyaRefaat27/Webpack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AyaRefaat27/Webpack/issues"
+  },
+  "homepage": "https://github.com/AyaRefaat27/Webpack#readme",
   "description": ""
 }
